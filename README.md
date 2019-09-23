@@ -35,7 +35,7 @@ HyperLprGUI.py: 展示车牌图片识别的图形界面程序。
 
 ## 示例图片
 ![1](./test-results/1.jpg) 
-![2](./test-results/2.jpg)
+![2](./test-results/2.JPG)
 
 ## 贡献者
 xuyu44f 测试、文档（ https://github.com/xuyu44f ）
