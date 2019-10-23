@@ -37,6 +37,10 @@ HyperLprGUI.py: 展示车牌图片识别的图形界面程序。
 ![1](./test-results/1.jpg) 
 ![2](./test-results/3.jpg)
 
+## TODO
+1. 优化视频流车牌定位功能，提高定位速度及准确率
+2. 实现车牌定位web服务功能
+
 ## 贡献者
 xuyu44f 测试、文档（ https://github.com/xuyu44f ）
 
